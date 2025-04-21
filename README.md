@@ -1,9 +1,5 @@
 In dit labo ga je een error logging bouwen.
 
-<p align="center">
-    <img src="media/error.png" width="200px" />
-</p>
-
 ## 1. Basis
 
 Maak een class `Log` aan die zal dienen als base class.
